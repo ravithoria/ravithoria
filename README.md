@@ -1,8 +1,9 @@
 ### Hello World, I'm Ravindra 👋
 
+
 - 🔭 I’m currently working on Android Project
 - 🌱 I’m currently learning Android Jetpack Compose
-- 👯 I’m looking to collaborate on opensource
+- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything, I am **happy to help**
 
 ### Come connect with me:
